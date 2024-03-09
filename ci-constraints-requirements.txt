@@ -156,3 +156,4 @@ virtualenv==20.25.0
 # The following packages are considered to be unsafe in a requirements file:
 # cffi
 # pycparser
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
